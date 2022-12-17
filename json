@@ -1,20 +1,19 @@
-Employees
-[
 {
-  "age": 23,
-  "city": "Swat",
-  "name": "Ali"
-}
-,{
-  "age": 25,
-  "city": "Peshawar",
-  "name": "Ahmad"
-}
-,{
-  "age": 33,
-  "city": "Islamabad",
-  "name": "Huzaifa"
-}
-
-
+"employees":[
+  {
+    "age": 23,
+    "city": "Swat",
+    "name": "Ali"
+  }
+  ,{
+    "age": 25,
+    "city": "Peshawar",
+    "name": "Ahmad"
+  }
+  ,{
+    "age": 33,
+    "city": "Islamabad",
+    "name": "Huzaifa"
+  }
 ]
+}
